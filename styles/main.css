@@ -2,12 +2,12 @@ html, body {
     overflow: hidden;
     font-family: Verdana, serif;
     font-size: 24px;
-    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fcolourlex.com%2Fproject%2Fvine-black%2F&psig=AOvVaw1xbcdKiQUCGo-kExc39kZn&ust=1709302212588000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiVm4vd0IQDFQAAAAAdAAAAABAE");
+    background: url("../images/bg4.jpeg");
     background-size: 85%;
 }
 
 canvas {
-    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fcolourlex.com%2Fproject%2Fvine-black%2F&psig=AOvVaw1xbcdKiQUCGo-kExc39kZn&ust=1709302212588000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiVm4vd0IQDFQAAAAAdAAAAABAE");
+    background: url("../images/bg4.jpeg");
     background-size: 85%;
 }
 
